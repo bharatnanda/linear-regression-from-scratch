@@ -9,7 +9,7 @@ As the name suggests univariate meaning single independent variable, here **_X_*
 
 There are multiple methods to create a simple linear regression model, this github project makes use of following methods for simple linear regression:
 > Simple linear regression using analytical methods
-        1) Simple linear regression using mean/averages.
+        1) Simple linear regression using mean/averages (least squares method).
         2) Simple linear regression using standard deviation and correlation. 
 > Simple linear regression using gradient descent
 
